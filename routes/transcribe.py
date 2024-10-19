@@ -12,7 +12,7 @@ router = APIRouter()
 
 
 pipe = pipeline(
-    model="qymyz/whisper-tiny-russian-dysarthria",
+    model="qymyz/whisper-russian-dysarthria",
 )
 
 
